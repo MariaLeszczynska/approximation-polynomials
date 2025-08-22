@@ -37,7 +37,7 @@ The report introduces and compares different polynomial approximation methods fo
 
 ---
 
-## 📖 References
+## References
 
 - Burden, R.L., Faires, J.D. (2010). *Numerical Analysis. Ninth Edition.*
 - Ridgway S. L. (2011). *Numerical Analysis*
